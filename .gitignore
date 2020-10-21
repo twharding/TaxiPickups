@@ -1,0 +1,5 @@
+/creds.json
+/data/
+/dask-worker-space/
+/.ipynb_checkpoints/
+/.idea/
